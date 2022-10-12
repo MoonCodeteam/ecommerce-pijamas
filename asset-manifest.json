@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ecommerce-pijamas/static/css/main.edf02b09.css",
-    "main.js": "/ecommerce-pijamas/static/js/main.9a258f5e.js",
-    "static/media/Movil card 1.svg": "/ecommerce-pijamas/static/media/Movil card 1.29536766c34f333e0d42.svg",
-    "static/media/logo.svg": "/ecommerce-pijamas/static/media/logo.898e32c231b68139c595257d17aafd62.svg",
-    "static/media/promo-design.svg": "/ecommerce-pijamas/static/media/promo-design.d5f2b749f4015254a1c4.svg",
-    "static/media/promoImg.svg": "/ecommerce-pijamas/static/media/promoImg.3cf044739f236b349335.svg",
-    "index.html": "/ecommerce-pijamas/index.html",
-    "static/media/categories-img.svg": "/ecommerce-pijamas/static/media/categories-img.d57a7ab1de1a6053bd1e.svg",
-    "main.edf02b09.css.map": "/ecommerce-pijamas/static/css/main.edf02b09.css.map",
-    "main.9a258f5e.js.map": "/ecommerce-pijamas/static/js/main.9a258f5e.js.map"
+    "main.css": "/static/css/main.edf02b09.css",
+    "main.js": "/static/js/main.bf7e01db.js",
+    "static/media/Movil card 1.svg": "/static/media/Movil card 1.29536766c34f333e0d42.svg",
+    "static/media/logo.svg": "/static/media/logo.898e32c231b68139c595257d17aafd62.svg",
+    "static/media/promo-design.svg": "/static/media/promo-design.d5f2b749f4015254a1c4.svg",
+    "static/media/promoImg.svg": "/static/media/promoImg.3cf044739f236b349335.svg",
+    "index.html": "/index.html",
+    "static/media/categories-img.svg": "/static/media/categories-img.d57a7ab1de1a6053bd1e.svg",
+    "main.edf02b09.css.map": "/static/css/main.edf02b09.css.map",
+    "main.bf7e01db.js.map": "/static/js/main.bf7e01db.js.map"
   },
   "entrypoints": [
     "static/css/main.edf02b09.css",
-    "static/js/main.9a258f5e.js"
+    "static/js/main.bf7e01db.js"
   ]
 }
